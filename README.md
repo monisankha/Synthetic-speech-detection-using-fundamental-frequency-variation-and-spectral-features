@@ -5,7 +5,7 @@ attacks. We proposed a new approach to detect synthetic speech using score-level
 
 % Database used: ASVspoof 2015
 
-% Paper published: Pal, Monisankha, Dipjyoti Paul, and Goutam Saha. "Synthetic speech detection using fundamental frequency variation and spectral features." 
+% Paper published: Pal, Monisankha, Dipjyoti Paul, and Goutam Saha. ["Synthetic speech detection using fundamental frequency variation and spectral features."](https://reader.elsevier.com/reader/sd/pii/S0885230817301663?token=4E348F39D718A75B7CE1F21DA9E2BB7C2F5BA1E9EA6DB0B32136C319CB4B2C550168982921A15DC43331FDB9F2D2D7CE) 
 Computer Speech & Language 48 (2018): 31-50.
 
 Stand-alone spoofing detection or CM:
