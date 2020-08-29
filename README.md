@@ -1,7 +1,7 @@
 # Synthetic-speech-detection-using-fundamental-frequency-variation-and-spectral-features
 Recent works on the vulnerability of automatic speaker verification (ASV) systems confirm that malicious spoofing attacks using synthetic speech can provoke 
 significant increase in false acceptance rate. A reliable detection of synthetic speech is key to develop countermeasure for synthetic speech based spoofing 
-attacks.
+attacks. We proposed a new approach to detect synthetic speech using score-level fusion of front-end features namely, constant Q cepstralcoefficients (CQCCs), all-pole group delay function (APGDF) and fundamental frequency variation (FFV). 
 
 % Database used: ASVspoof 2015
 
