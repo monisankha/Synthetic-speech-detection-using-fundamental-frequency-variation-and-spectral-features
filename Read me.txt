@@ -28,7 +28,7 @@ CM+ASV spoofing detection:
 
 10. CS1_Complete_Train_Test_Female_Dev_Eval_RMFCC_60_IV.m---> Countermeasure+ASV for development and evaluation data using i-vector based ASV. It is for female data.
 
-*** All these codes and all other codes are available in D:\code_anti-spoofing folder. For any query pls contact at monisankha.pal@gmail.com
+*** For any query pls contact at monisankha.pal@gmail.com
 
 
 
