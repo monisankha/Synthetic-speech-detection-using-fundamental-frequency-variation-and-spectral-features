@@ -1,5 +1,5 @@
 # Synthetic-speech-detection-using-fundamental-frequency-variation-and-spectral-features
-Recent works on the vulnerability of automatic speaker verification (ASV) systems confirm that malicious spoofing attacksusing synthetic speech can provoke 
+Recent works on the vulnerability of automatic speaker verification (ASV) systems confirm that malicious spoofing attacks using synthetic speech can provoke 
 significant increase in false acceptance rate. A reliable detection of synthetic speech is key to develop countermeasure for synthetic speech based spoofing 
 attacks.
 
