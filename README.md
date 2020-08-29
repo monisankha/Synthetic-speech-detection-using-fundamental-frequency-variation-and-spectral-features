@@ -13,7 +13,6 @@ Pal, Monisankha, Dipjyoti Paul, and Goutam Saha. ["Synthetic speech detection us
 Computer Speech & Language 48 (2018): 31-50.
 
 # Stand-alone spoofing detection or CM:
--------------------------------------
 
 1. asvspoof2015_spoofingdetection_apgdcc_development.m---> ASVspoof 2015 development data spoof detection using APGDF feature
 
@@ -32,7 +31,6 @@ Computer Speech & Language 48 (2018): 31-50.
 8. fusion_asvspoof2015_evaluation_cqccdbd_apgdfdbd_ffvfd.m---> Score level fusion of CQCC(A), APGDF(A) and FFV(SD) feature or proposed method for anti-spoofing
 
 # CM+ASV spoofing detection:
----------------------------
 
 9. Complete_Train_Test_Female_Dev_Eval_MFCC_withcm.M---> Countermeasure+ASV for development and evaluation data using GMM-UBM ASV. It is for female data.
 
